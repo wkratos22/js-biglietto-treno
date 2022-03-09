@@ -1,0 +1,35 @@
+.target{
+    text-align: center;
+}
+
+.bg-color{
+    background-color: rgb(207, 79, 79);
+}
+
+.target-color{
+    background-color: rgb(255, 247, 231);
+    width: 30%;
+    margin-left: 35%;
+    border-radius: 20px;
+}
+
+.padding{
+    padding: 20px;
+}
+
+.font{
+    font: 1.2em "Fira Sans", sans-serif;
+}
+
+.h1{
+    font:"Fira Sans", sans-serif;
+}
+
+.btn{
+    background-color:rgb(207, 79, 79) !important ;
+    margin-left: 60%;
+}
+
+.btn:hover{
+    background-color:rgb(231, 74, 74) !important ;
+}
